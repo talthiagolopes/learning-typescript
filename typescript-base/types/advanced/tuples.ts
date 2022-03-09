@@ -1,0 +1,1 @@
+var array: [number, string] = [1, 'bla'];
